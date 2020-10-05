@@ -1,0 +1,12 @@
+D:\My\Секретно\ИГХТУ\Git\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfoInputs.cache
+D:\My\Секретно\ИГХТУ\Git\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfo.cs
+D:\My\Секретно\ИГХТУ\Git\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\My\Секретно\ИГХТУ\Git\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.exe
+D:\My\Секретно\ИГХТУ\Git\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.deps.json
+D:\My\Секретно\ИГХТУ\Git\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.json
+D:\My\Секретно\ИГХТУ\Git\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.dev.json
+D:\My\Секретно\ИГХТУ\Git\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.dll
+D:\My\Секретно\ИГХТУ\Git\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.pdb
+D:\My\Секретно\ИГХТУ\Git\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.dll
+D:\My\Секретно\ИГХТУ\Git\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.pdb
+D:\My\Секретно\ИГХТУ\Git\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.genruntimeconfig.cache
